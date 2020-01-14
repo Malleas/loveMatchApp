@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoveMatch</string>
+    <string name="yourNameHint">Your name</string>
+    <string name="yourNameLabel">Your Name</string>
+    <string name="otherPersonLable">Other Person\'s Name</string>
+    <string name="otherPersonHint">Other Person\'s Name</string>
+    <string name="compute">Compute</string>
+</resources>
